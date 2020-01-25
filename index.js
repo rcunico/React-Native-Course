@@ -1,7 +1,18 @@
+import React from 'react';
 import { AppRegistry, Platform } from 'react-native';
+import { Provider } from 'react-redux';
 import App from './App';
+import configureStore from './src/store/configureStore';
 
-AppRegistry.registerComponent('rncourse', () => App);
+const store = configureStore();
+
+const RNRedux = () => (
+  <Provider store = {store}>
+    <App />
+  </Provider>
+);
+
+AppRegistry.registerComponent('rncourse', () => RNRedux);
 
 if (Platform.OS === 'web') {
   const rootTag = document.getElementById('root') || document.getElementById('main');
