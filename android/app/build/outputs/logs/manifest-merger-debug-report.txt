@@ -1,0 +1,512 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:react-native-screens] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-permissions] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-react-native-adapter] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/86a149c35545a58a367ff81839dd67b7/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/ac20746313dc0e18b5a359325bf1e01b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/a97145aa4336db29cd11c6280ee4cac4/AndroidManifest.xml:17:1-24:12
+MERGED from [:expo-app-loader-provider] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/34a63301b5708dcfe0fb53da4832c759/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/5d17264fd0026f28c0795c2dc9511a95/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5bc95ccba0347ea45ed285d3b2c0100e/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/56138a7e5f516c40a01d951ef59778be/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/5a3afa1812648c61e828e00ba4509b37/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/7ba418b389ebc66f25fdd91335fe1aea/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/308e97a60e6db670c91df36c6208be44/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/0f182151c13e499dd87f0a7a85a4ab3c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d4bfec1ccfea065d27dcb7e0f193ae5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/574069a43c8120443ee4c58f5b0e5cec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0a419e185ad362b0441e3dc6607ff779/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/958f0c618b84ce1463c924bbbe66c1a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/e458288377f49178edef0a07e92904ce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/638bd97c76d36a517e413142a23ef76e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/65d8cfec3ae6ddf10e692b47669e2012/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/2a41497dfce43b9bcb08e2daf93544d7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/87293113220a41bda175b4b4b4daf902/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/ca925448eb0b458f2a316ddc68ae411b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/2739a34b1ba5b86bbe618256e6d2b0dc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c1be38deb79c7eb3979cf162f2891b12/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/15e71e742ddc4cddc78caa437018810f/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/a3cdbc61ed22ba5fd85979d069279741/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/a811611bf10fe8029a00954b985eb1ae/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/dabd552bfa01ec4fe1622dc61cd5ea2d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d0200abfb271dc2b914330db72e25d23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/24e60a2dd7e16860f005f311fc44456e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c7585dbe93a88e13664210db25196f27/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c9995767a52cd5ed6369e825fe03d06b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/01a73b5458930aa31175c3d12148a4f9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/d46bf15fe85f5afb2028bd18d15a834a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/83df29cd16973c7a60d8714afbad9a05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/f4c44a992f5480f6b9b14344e2e48540/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/3a4e1f712eb3222ffc70f58b72f20d4c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/a56afd2c8e3bdc11ea2a20e231b8c5d1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/048aab12915f038abc55bb68b00d988b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/7289844f451c7b276605f6e145e31d61/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/3d6fab26aa87e9ab37bb56362af8c3c5/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/812e4007780fb7a96233f0cc0a12717c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/1f62d3b1040b55ad7bae5f6351a21f62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/c4c4413a5c6a0c2cc906ffba0ac607d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/572a63bb79cf5ff9b2570eae4d6200ac/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/bac2ccfb47205450e0b1cc215d06d2a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/5cf9eadbca538e408681a33bf24de6b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/86375a6030bab0a86ee224184f321790/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/0e0bb121aad493caf13c3873696b8567/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/dbde2798c64cbc7bb43008dda68aef73/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/7b1a66b1bcae6240c1730e841ade6c0f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9876e4d2757deae18bfd258bf2abe2ba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/4bc427b17270bbc175dbbd5b32086393/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/8b5c4d55b17522951ab52e824c100ad1/AndroidManifest.xml:17:1-22:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/51f4ff739a73776aafb03a7da4e54d52/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/86a149c35545a58a367ff81839dd67b7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/86a149c35545a58a367ff81839dd67b7/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/ac20746313dc0e18b5a359325bf1e01b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/ac20746313dc0e18b5a359325bf1e01b/AndroidManifest.xml:22:5-20
+MERGED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/5d17264fd0026f28c0795c2dc9511a95/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/5d17264fd0026f28c0795c2dc9511a95/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5bc95ccba0347ea45ed285d3b2c0100e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5bc95ccba0347ea45ed285d3b2c0100e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/56138a7e5f516c40a01d951ef59778be/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/56138a7e5f516c40a01d951ef59778be/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/5a3afa1812648c61e828e00ba4509b37/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/5a3afa1812648c61e828e00ba4509b37/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/7ba418b389ebc66f25fdd91335fe1aea/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/7ba418b389ebc66f25fdd91335fe1aea/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c1be38deb79c7eb3979cf162f2891b12/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c1be38deb79c7eb3979cf162f2891b12/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/15e71e742ddc4cddc78caa437018810f/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/15e71e742ddc4cddc78caa437018810f/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/a3cdbc61ed22ba5fd85979d069279741/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/a3cdbc61ed22ba5fd85979d069279741/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/3d6fab26aa87e9ab37bb56362af8c3c5/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/3d6fab26aa87e9ab37bb56362af8c3c5/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/572a63bb79cf5ff9b2570eae4d6200ac/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/572a63bb79cf5ff9b2570eae4d6200ac/AndroidManifest.xml:24:5-25:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/3d6fab26aa87e9ab37bb56362af8c3c5/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.rncourse.MainActivity
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-screens] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/86a149c35545a58a367ff81839dd67b7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/86a149c35545a58a367ff81839dd67b7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/ac20746313dc0e18b5a359325bf1e01b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/ac20746313dc0e18b5a359325bf1e01b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/a97145aa4336db29cd11c6280ee4cac4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/a97145aa4336db29cd11c6280ee4cac4/AndroidManifest.xml:20:5-22:41
+MERGED from [:expo-app-loader-provider] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/34a63301b5708dcfe0fb53da4832c759/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/34a63301b5708dcfe0fb53da4832c759/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/5d17264fd0026f28c0795c2dc9511a95/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/5d17264fd0026f28c0795c2dc9511a95/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5bc95ccba0347ea45ed285d3b2c0100e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5bc95ccba0347ea45ed285d3b2c0100e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/56138a7e5f516c40a01d951ef59778be/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/56138a7e5f516c40a01d951ef59778be/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/5a3afa1812648c61e828e00ba4509b37/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/5a3afa1812648c61e828e00ba4509b37/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/7ba418b389ebc66f25fdd91335fe1aea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/7ba418b389ebc66f25fdd91335fe1aea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/308e97a60e6db670c91df36c6208be44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/308e97a60e6db670c91df36c6208be44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/0f182151c13e499dd87f0a7a85a4ab3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/0f182151c13e499dd87f0a7a85a4ab3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d4bfec1ccfea065d27dcb7e0f193ae5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/d4bfec1ccfea065d27dcb7e0f193ae5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/574069a43c8120443ee4c58f5b0e5cec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/574069a43c8120443ee4c58f5b0e5cec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0a419e185ad362b0441e3dc6607ff779/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0a419e185ad362b0441e3dc6607ff779/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/958f0c618b84ce1463c924bbbe66c1a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/transition-1.1.0.aar/958f0c618b84ce1463c924bbbe66c1a3/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/e458288377f49178edef0a07e92904ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/e458288377f49178edef0a07e92904ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/638bd97c76d36a517e413142a23ef76e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/638bd97c76d36a517e413142a23ef76e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/65d8cfec3ae6ddf10e692b47669e2012/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/65d8cfec3ae6ddf10e692b47669e2012/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/2a41497dfce43b9bcb08e2daf93544d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/2a41497dfce43b9bcb08e2daf93544d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/87293113220a41bda175b4b4b4daf902/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/87293113220a41bda175b4b4b4daf902/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/ca925448eb0b458f2a316ddc68ae411b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/ca925448eb0b458f2a316ddc68ae411b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/2739a34b1ba5b86bbe618256e6d2b0dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/2739a34b1ba5b86bbe618256e6d2b0dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c1be38deb79c7eb3979cf162f2891b12/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/c1be38deb79c7eb3979cf162f2891b12/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/15e71e742ddc4cddc78caa437018810f/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/15e71e742ddc4cddc78caa437018810f/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/a3cdbc61ed22ba5fd85979d069279741/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/a3cdbc61ed22ba5fd85979d069279741/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/a811611bf10fe8029a00954b985eb1ae/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/a811611bf10fe8029a00954b985eb1ae/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/dabd552bfa01ec4fe1622dc61cd5ea2d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/dabd552bfa01ec4fe1622dc61cd5ea2d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d0200abfb271dc2b914330db72e25d23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/d0200abfb271dc2b914330db72e25d23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/24e60a2dd7e16860f005f311fc44456e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/24e60a2dd7e16860f005f311fc44456e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c7585dbe93a88e13664210db25196f27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c7585dbe93a88e13664210db25196f27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c9995767a52cd5ed6369e825fe03d06b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/c9995767a52cd5ed6369e825fe03d06b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/01a73b5458930aa31175c3d12148a4f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/01a73b5458930aa31175c3d12148a4f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/d46bf15fe85f5afb2028bd18d15a834a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/d46bf15fe85f5afb2028bd18d15a834a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/83df29cd16973c7a60d8714afbad9a05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/83df29cd16973c7a60d8714afbad9a05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/f4c44a992f5480f6b9b14344e2e48540/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/f4c44a992f5480f6b9b14344e2e48540/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/3a4e1f712eb3222ffc70f58b72f20d4c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/3a4e1f712eb3222ffc70f58b72f20d4c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/a56afd2c8e3bdc11ea2a20e231b8c5d1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/a56afd2c8e3bdc11ea2a20e231b8c5d1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/048aab12915f038abc55bb68b00d988b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/048aab12915f038abc55bb68b00d988b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/7289844f451c7b276605f6e145e31d61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/7289844f451c7b276605f6e145e31d61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/3d6fab26aa87e9ab37bb56362af8c3c5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/3d6fab26aa87e9ab37bb56362af8c3c5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/812e4007780fb7a96233f0cc0a12717c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/812e4007780fb7a96233f0cc0a12717c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/1f62d3b1040b55ad7bae5f6351a21f62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/1f62d3b1040b55ad7bae5f6351a21f62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/c4c4413a5c6a0c2cc906ffba0ac607d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/c4c4413a5c6a0c2cc906ffba0ac607d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/572a63bb79cf5ff9b2570eae4d6200ac/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/572a63bb79cf5ff9b2570eae4d6200ac/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/bac2ccfb47205450e0b1cc215d06d2a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/bac2ccfb47205450e0b1cc215d06d2a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/5cf9eadbca538e408681a33bf24de6b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/5cf9eadbca538e408681a33bf24de6b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/86375a6030bab0a86ee224184f321790/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/86375a6030bab0a86ee224184f321790/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/0e0bb121aad493caf13c3873696b8567/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/0e0bb121aad493caf13c3873696b8567/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/dbde2798c64cbc7bb43008dda68aef73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/dbde2798c64cbc7bb43008dda68aef73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/7b1a66b1bcae6240c1730e841ade6c0f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/7b1a66b1bcae6240c1730e841ade6c0f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9876e4d2757deae18bfd258bf2abe2ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/9876e4d2757deae18bfd258bf2abe2ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/4bc427b17270bbc175dbbd5b32086393/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/4bc427b17270bbc175dbbd5b32086393/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/8b5c4d55b17522951ab52e824c100ad1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/8b5c4d55b17522951ab52e824c100ad1/AndroidManifest.xml:20:5-44
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/51f4ff739a73776aafb03a7da4e54d52/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/51f4ff739a73776aafb03a7da4e54d52/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ryancunico/Programming/ReactNative/rncourse/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /Users/ryancunico/Programming/ReactNative/rncourse/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5bc95ccba0347ea45ed285d3b2c0100e/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5bc95ccba0347ea45ed285d3b2c0100e/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5bc95ccba0347ea45ed285d3b2c0100e/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/5bc95ccba0347ea45ed285d3b2c0100e/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/7ba418b389ebc66f25fdd91335fe1aea/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/7ba418b389ebc66f25fdd91335fe1aea/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/7ba418b389ebc66f25fdd91335fe1aea/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/ryancunico/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/cbb5327f8243d1654b959e6c607277ed/AndroidManifest.xml:26:13-120

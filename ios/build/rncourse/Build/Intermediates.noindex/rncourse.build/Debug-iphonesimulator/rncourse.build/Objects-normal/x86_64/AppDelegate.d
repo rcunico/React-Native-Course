@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/rncourse/AppDelegate.m \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/rncourse/AppDelegate.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/UMReactNativeAdapter/UMModuleRegistryAdapter.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/UMCore/UMModuleRegistryProvider.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/UMCore/UMModuleRegistry.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/UMCore/UMInternalModule.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/UMCore/UMDefines.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/UMCore/UMExportedModule.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/UMCore/UMViewManager.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/UMCore/UMModuleRegistryDelegate.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/UMCore/UMSingletonModule.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/UMCore/UMAppDelegateWrapper.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/React-Core/React/RCTBundleURLProvider.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/ryancunico/Programming/ReactNative/rncourse/ios/Pods/Headers/Public/UMReactNativeAdapter/UMNativeModulesProxy.h
