@@ -1,4 +1,4 @@
-#Sat Jan 25 00:41:36 EST 2020
+#Sat Jan 25 01:29:45 EST 2020
 base.1=/Users/ryancunico/Programming/ReactNative/rncourse/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.1=classes.dex
 base.0=/Users/ryancunico/Programming/ReactNative/rncourse/android/app/build/intermediates/transforms/dexMerger/debug/1

@@ -1,5 +1,6 @@
 import React from 'react';
 import { Modal, View, Image, Text, Button, StyleSheet, TouchableOpacity } from 'react-native';
+import { Icon } from 'react-native-elements';
 
 const placeDetail = props => {
     let modalContent = null;
@@ -17,8 +18,9 @@ const placeDetail = props => {
         <View style={styles.modalContainer}>
             {modalContent}
         <View style={styles.modalContainer}>
-            {/* <Button title="Delete" color="red" onPress={props.onItemDeleted}/> */}
-            <Button title="Delete" onPress={props.onItemDeleted}/>
+            <TouchableOpacity onPress={props.onItemDeleted}>
+            <Icon name="delete" type="material" color="#cc0000" />
+            </TouchableOpacity>
             <Button title="Close" onPress={props.onModalClosed}/>
         </View>
         </View>
